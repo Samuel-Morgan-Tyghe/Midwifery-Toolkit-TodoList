@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d3156bfe.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.7c34c7a5.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.7c34c7a5.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.057bee4c.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.057bee4c.js.map",
-    "static/js/2.461a1d83.chunk.js": "/react-gh-pages/static/js/2.461a1d83.chunk.js",
-    "static/js/2.461a1d83.chunk.js.map": "/react-gh-pages/static/js/2.461a1d83.chunk.js.map",
-    "static/js/3.7d755975.chunk.js": "/react-gh-pages/static/js/3.7d755975.chunk.js",
-    "static/js/3.7d755975.chunk.js.map": "/react-gh-pages/static/js/3.7d755975.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.d3156bfe.chunk.css.map": "/react-gh-pages/static/css/main.d3156bfe.chunk.css.map",
-    "static/js/2.461a1d83.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.461a1d83.chunk.js.LICENSE.txt"
+    "main.css": "/Midwifery-Toolkit-TodoList/static/css/main.d3156bfe.chunk.css",
+    "main.js": "/Midwifery-Toolkit-TodoList/static/js/main.7c34c7a5.chunk.js",
+    "main.js.map": "/Midwifery-Toolkit-TodoList/static/js/main.7c34c7a5.chunk.js.map",
+    "runtime-main.js": "/Midwifery-Toolkit-TodoList/static/js/runtime-main.c225ecb0.js",
+    "runtime-main.js.map": "/Midwifery-Toolkit-TodoList/static/js/runtime-main.c225ecb0.js.map",
+    "static/js/2.461a1d83.chunk.js": "/Midwifery-Toolkit-TodoList/static/js/2.461a1d83.chunk.js",
+    "static/js/2.461a1d83.chunk.js.map": "/Midwifery-Toolkit-TodoList/static/js/2.461a1d83.chunk.js.map",
+    "static/js/3.7d755975.chunk.js": "/Midwifery-Toolkit-TodoList/static/js/3.7d755975.chunk.js",
+    "static/js/3.7d755975.chunk.js.map": "/Midwifery-Toolkit-TodoList/static/js/3.7d755975.chunk.js.map",
+    "index.html": "/Midwifery-Toolkit-TodoList/index.html",
+    "static/css/main.d3156bfe.chunk.css.map": "/Midwifery-Toolkit-TodoList/static/css/main.d3156bfe.chunk.css.map",
+    "static/js/2.461a1d83.chunk.js.LICENSE.txt": "/Midwifery-Toolkit-TodoList/static/js/2.461a1d83.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.057bee4c.js",
+    "static/js/runtime-main.c225ecb0.js",
     "static/js/2.461a1d83.chunk.js",
     "static/css/main.d3156bfe.chunk.css",
     "static/js/main.7c34c7a5.chunk.js"
